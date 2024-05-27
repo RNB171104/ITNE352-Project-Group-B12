@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "MJA Insight",
+      "title": "Are digital mental health services cost-effective and safe? - MJA Insight",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vaW5zaWdodHBsdXMubWphLmNvbS5hdS8yMDI0LzIwL2FyZS1kaWdpdGFsLW1lbnRhbC1oZWFsdGgtc2VydmljZXMtY29zdC1lZmZlY3RpdmUtYW5kLXNhZmUv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-26T14:18:09Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "MJA Insight",
+      "title": "Navigating gluten-related disorders: bridging gaps in understanding and management - MJA Insight",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vaW5zaWdodHBsdXMubWphLmNvbS5hdS8yMDI0LzIwL25hdmlnYXRpbmctZ2x1dGVuLXJlbGF0ZWQtZGlzb3JkZXJzLWJyaWRnaW5nLWdhcHMtaW4tdW5kZXJzdGFuZGluZy1hbmQtbWFuYWdlbWVudC_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-26T14:18:09Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "MJA Insight",
+      "title": "Silicosis registry \u2013 a long time coming | InSight+ - MJA Insight",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vaW5zaWdodHBsdXMubWphLmNvbS5hdS8yMDI0LzIwL3NpbGljb3Npcy1yZWdpc3RyeS1hLWxvbmctdGltZS1jb21pbmcv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-26T14:18:09Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "ScienceAlert",
+      "title": "Surprise Discovery Reveals Earliest Known Ancestor of Scorpions And Spiders - ScienceAlert",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnNjaWVuY2VhbGVydC5jb20vc3VycHJpc2UtZGlzY292ZXJ5LXJldmVhbHMtZWFybGllc3Qta25vd24tYW5jZXN0b3Itb2Ytc2NvcnBpb25zLWFuZC1zcGlkZXJz0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-26T12:30:27Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "news.com.au",
+      "title": "Shock split after couple\u2019s dramatic TV exit - news.com.au",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiuAFodHRwczovL3d3dy5uZXdzLmNvbS5hdS9lbnRlcnRhaW5tZW50L3R2L3JlYWxpdHktdHYvamFtZXMtd2Vpci1yZWNhcHMtZmFybWVyLXdhbnRzLWEtd2lmZS1yZXVuaW9uLXNob2NrLXNwbGl0LWFmdGVyLWNvdXBsZXMtZHJhbWF0aWMtdHYtZXhpdC9uZXdzLXN0b3J5L2RiOWMzZDA4MmNjZmVhOTQ4MmU1YmI0MTEyM2YwMmM10gG8AWh0dHBzOi8vd3d3Lm5ld3MuY29tLmF1L2VudGVydGFpbm1lbnQvdHYvcmVhbGl0eS10di9qYW1lcy13ZWlyLXJlY2Fwcy1mYXJtZXItd2FudHMtYS13aWZlLXJldW5pb24tc2hvY2stc3BsaXQtYWZ0ZXItY291cGxlcy1kcmFtYXRpYy10di1leGl0L25ld3Mtc3RvcnkvZGI5YzNkMDgyY2NmZWE5NDgyZTViYjQxMTIzZjAyYzU_YW1w?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-26T12:18:03Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "news.com.au",
+      "title": "Trump booed, screamed at during speech - news.com.au",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5uZXdzLmNvbS5hdS93b3JsZC9ub3J0aC1hbWVyaWNhL3VzLXBvbGl0aWNzL2RvbmFsZC10cnVtcC1ib29lZC1zY3JlYW1lZC1hdC1kdXJpbmctc3BlZWNoL25ld3Mtc3RvcnkvNmI5NGJiNDM0NTQxYzczNWQ4YmZmYTE1MTExMGU4NznSAZQBaHR0cHM6Ly93d3cubmV3cy5jb20uYXUvd29ybGQvbm9ydGgtYW1lcmljYS91cy1wb2xpdGljcy9kb25hbGQtdHJ1bXAtYm9vZWQtc2NyZWFtZWQtYXQtZHVyaW5nLXNwZWVjaC9uZXdzLXN0b3J5LzZiOTRiYjQzNDU0MWM3MzVkOGJmZmExNTExMTBlODc5P2FtcA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-26T11:26:58Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "9News",
+      "title": "Public transport fares slashed to just 50 cents across Queensland - 9News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy45bmV3cy5jb20uYXUvbmF0aW9uYWwvcHVibGljLXRyYW5zcG9ydC1mYXJlLXNsYXNoZWQtdG8tanVzdC01MC1jZW50cy1hY3Jvc3MtcXVlZW5zbGFuZC85NTIxNDFhNi0wOGUwLTQwMDEtODNjMy01OWE5ZjJkYjAzZTTSAUVodHRwczovL2FtcC45bmV3cy5jb20uYXUvYXJ0aWNsZS85NTIxNDFhNi0wOGUwLTQwMDEtODNjMy01OWE5ZjJkYjAzZTQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-26T11:21:58Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "9News",
+      "title": "Man rescued after falling 10 metres down Queensland mountainside - 9News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy45bmV3cy5jb20uYXUvbmF0aW9uYWwvcmVzY3VlLXVuZGVyLXdheS1hZnRlci1tYW4tZmFsbHMtZG93bi1xdWVlbnNsYW5kLW1vdW50YWluc2lkZS9hMDZlYzk5NC0xYWU2LTRlYWItYmY1Yi1hMjhiZmM5MzZiNGPSAUVodHRwczovL2FtcC45bmV3cy5jb20uYXUvYXJ0aWNsZS9hMDZlYzk5NC0xYWU2LTRlYWItYmY1Yi1hMjhiZmM5MzZiNGM?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-26T11:20:19Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "9News",
+      "title": "Richard Sherman, who fueled Disney charm in 'Mary Poppins' and 'It's a Small World,' dies at 95 - 9News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy45bmV3cy5jb20uYXUvd29ybGQvcmljaGFyZC1zaGVybWFuLXdoby1mdWVsZWQtZGlzbmV5LWNoYXJtLWluLW1hcnktcG9wcGlucy1hbmQtaXRzLWEtc21hbGwtd29ybGQtZGllcy1hdC05NS9kZTA1NTc2Zi1kN2I0LTRjOWQtYTI5OS0yYWI2MTlkOWIzMDXSAUVodHRwczovL2FtcC45bmV3cy5jb20uYXUvYXJ0aWNsZS9kZTA1NTc2Zi1kN2I0LTRjOWQtYTI5OS0yYWI2MTlkOWIzMDU?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-26T11:14:11Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "9News",
+      "title": "At least 27 people killed in amusement park fire in India - 9News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LjluZXdzLmNvbS5hdS93b3JsZC9hdC1sZWFzdC0yNy1wZW9wbGUta2lsbGVkLWluLWFtdXNlbWVudC1wYXJrLWZpcmUtaW4taW5kaWEvNTkwNWU1OWQtNDZhYy00NDNjLWIyMzYtMzAxN2FmMzQzYzA00gFFaHR0cHM6Ly9hbXAuOW5ld3MuY29tLmF1L2FydGljbGUvNTkwNWU1OWQtNDZhYy00NDNjLWIyMzYtMzAxN2FmMzQzYzA0?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-26T11:12:14Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "9News",
+      "title": "Man walking length of Australia for basic income rescued from cliffside - 9News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy45bmV3cy5jb20uYXUvbmF0aW9uYWwvYnVzaHdhbGtlci1zdHVjay1vbi1jbGlmZnNpZGUtYWZ0ZXItZmFsbGluZy1mcm9tLWNvYXN0YWwtdHJhY2stbm9ydGgtb2Ytc3lkbmV5LzZlYzc3ZGUyLWMxYmQtNGQ3Yy04MjI0LWMzNzllY2ZjMWU3YtIBRWh0dHBzOi8vYW1wLjluZXdzLmNvbS5hdS9hcnRpY2xlLzZlYzc3ZGUyLWMxYmQtNGQ3Yy04MjI0LWMzNzllY2ZjMWU3Yg?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-26T11:11:05Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Guardian",
+      "title": "Six newborn babies die after fire tears through Delhi hospital - The Guardian",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC9hcnRpY2xlLzIwMjQvbWF5LzI2L25ld2Jvcm4tYmFiaWVzLWRpZS1hZnRlci1maXJlLXRlYXJzLXRocm91Z2gtZGVsaGktaG9zcGl0YWzSAXBodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vd29ybGQvYXJ0aWNsZS8yMDI0L21heS8yNi9uZXdib3JuLWJhYmllcy1kaWUtYWZ0ZXItZmlyZS10ZWFycy10aHJvdWdoLWRlbGhpLWhvc3BpdGFs?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-26T11:06:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The West Australian",
+      "title": "Floreat shooting: Mark Bombara\u2019s 13 guns seized after horrific murder-suicide occurred - The West Australian",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3RoZXdlc3QuY29tLmF1L25ld3MvY3JpbWUvZmxvcmVhdC1zaG9vdGluZy1tYXJrLWJvbWJhcmFzLTEzLWd1bnMtc2VpemVkLWFmdGVyLWhvcnJpZmljLW11cmRlci1zdWljaWRlLW9jY3VycmVkLS1jLTE0Nzk5MjQw0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-26T10:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Wide World of Sports",
+      "title": "James Tedesco dumped, six debutants named as Michael Maguire reveals NSW Blues team - Wide World of Sports",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3b3MubmluZS5jb20uYXUvbnJsL3N0YXRlLW9mLW9yaWdpbi1uc3ctYmx1ZXMtdGVhbS1saXN0LTIwMjQtZ2FtZS1vbmUtcGxheWVycy1zZWxlY3Rpb24tbWljaGFlbC1tYWd1aXJlL2M3MDhlYzU3LWIyYjUtNDQxOC1hYzg3LWQ0ZDU4NzFlZjc4NtIBRGh0dHBzOi8vYW1wLm5pbmUuY29tLmF1L2FydGljbGUvYzcwOGVjNTctYjJiNS00NDE4LWFjODctZDRkNTg3MWVmNzg2?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-26T08:59:03Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Al Jazeera English",
+      "title": "UN estimates more than 670 killed in Papua New Guinea landslide - Al Jazeera English",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzUvMjYvdW4tZXN0aW1hdGVzLW1vcmUtdGhhbi02NzAta2lsbGVkLWluLXBhcHVhLW5ldy1ndWluZWEtbGFuZHNsaWRl0gFsaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvbmV3cy8yMDI0LzUvMjYvdW4tZXN0aW1hdGVzLW1vcmUtdGhhbi02NzAta2lsbGVkLWluLXBhcHVhLW5ldy1ndWluZWEtbGFuZHNsaWRl?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-26T08:50:13Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "news.com.au",
+      "title": "EV drivers to get hundreds of new chargers - news.com.au",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMipgFodHRwczovL3d3dy5uZXdzLmNvbS5hdS9uYXRpb25hbC9uc3ctYWN0L25ld3MvbWlubnMtZ292ZXJubWVudC1naXZlcy1mdW5kaW5nLXRvLWJ1aWxkLTY3MS1uZXctY2hhcmdpbmctcG9pbnRzLWFjcm9zcy1zdGF0ZS9uZXdzLXN0b3J5LzFkNDhiOTJjNjJhNDMzMzRmMGIxYmYyMDI4ZTQxNGEy0gGqAWh0dHBzOi8vd3d3Lm5ld3MuY29tLmF1L25hdGlvbmFsL25zdy1hY3QvbmV3cy9taW5ucy1nb3Zlcm5tZW50LWdpdmVzLWZ1bmRpbmctdG8tYnVpbGQtNjcxLW5ldy1jaGFyZ2luZy1wb2ludHMtYWNyb3NzLXN0YXRlL25ld3Mtc3RvcnkvMWQ0OGI5MmM2MmE0MzMzNGYwYjFiZjIwMjhlNDE0YTI_YW1w?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-26T08:41:51Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Fox Sports",
+      "title": "\u2018Generational talent\u2019 firing on all cylinders as Saints\u2019 season continues to spiral out of control - Fox Sports",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMizAFodHRwczovL3d3dy5mb3hzcG9ydHMuY29tLmF1L2FmbC9saXZlLWFmbC1zY29yZXMtMjAyNC1tZWxib3VybmUtZGVtb25zLXZzLXN0LWtpbGRhLXNhaW50cy1yb3VuZC0xMS11cGRhdGVzLXN0YXRzLWJsb2ctaG93LXRvLXN0cmVhbS1zdGFydC10aW1lLXRlYW1zLWxhdGVzdC1uZXdzL25ld3Mtc3RvcnkvNDc3ODhiMzY3NDc1NDVhMDgzNTBmYzBiOGMwOTk4MGbSAcwBaHR0cHM6Ly93d3cuZm94c3BvcnRzLmNvbS5hdS9hZmwvbGl2ZS1hZmwtc2NvcmVzLTIwMjQtbWVsYm91cm5lLWRlbW9ucy12cy1zdC1raWxkYS1zYWludHMtcm91bmQtMTEtdXBkYXRlcy1zdGF0cy1ibG9nLWhvdy10by1zdHJlYW0tc3RhcnQtdGltZS10ZWFtcy1sYXRlc3QtbmV3cy9uZXdzLXN0b3J5LzQ3Nzg4YjM2NzQ3NTQ1YTA4MzUwZmMwYjhjMDk5ODBm?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-26T08:10:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "ABC News",
+      "title": "Light plane appears to only just make Sydney runway as it narrowly avoids trees and rooftops - ABC News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDI0LTA1LTI2L2xpZ2h0LXBsYW5lLWVtZXJnZW5jeS1sYW5kaW5nLXN5ZG5leS1iYW5rc3Rvd24vMTAzODk1MDk20gEoaHR0cHM6Ly9hbXAuYWJjLm5ldC5hdS9hcnRpY2xlLzEwMzg5NTA5Ng?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-26T06:19:47Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Country News",
+      "title": "Bird flu cull leads to 450000 fewer eggs per day - Country News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmNvdW50cnluZXdzLmNvbS5hdS9uZXdzL2JpcmQtZmx1LWN1bGwtbGVhZHMtdG8tNDUwMDAwLWZld2VyLWVnZ3MtcGVyLWRheS0yL9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-26T06:14:52Z",
+      "content": null
+    }
+  ]
+}

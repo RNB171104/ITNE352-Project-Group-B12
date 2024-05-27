@@ -1,0 +1,123 @@
+{
+  "status": "ok",
+  "totalResults": 9,
+  "articles": [
+    {
+      "source": {
+        "id": "bild",
+        "name": "Bild"
+      },
+      "author": "Janek K\u00f6nau, J\u00f6rn Ehlert",
+      "title": "Th\u00fcringen: F\u00e4kalien im Freibad Bad Berka ausgetreten | Regional",
+      "description": "Ein Unwetter mit starkem Regen hatte das Freibad am Abend \u00fcberflutet. Auch die Toiletten standen offenbar unter Wasser.",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-faekalien-im-freibad-bad-berka-ausgetreten-66532a78472ec65376a101f0",
+      "urlToImage": "https://images.bild.de/66532a78472ec65376a101f0/30b302081dca5b84e54bedc8e925e864,d877fbd1?w=1280",
+      "publishedAt": "2024-05-26T14:53:02Z",
+      "content": "Bad Berka (Th\u00fcringen) - Nach dem Regen kommt der Ekel...\r\nUm kurz nach 20 Uhr kam es am Samstagabend zu einem Unwetter mit Starkregen \u00fcber \r\nTh\u00fcringen. Unter anderem waren die Gemeinden Neusaalborn, \u2026 [+1357 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-ca",
+        "name": "Google News (Canada)"
+      },
+      "author": "National Post",
+      "title": "The time Pierre Poilievre got a dressing-down from Stephen Harper - National Post",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vbmF0aW9uYWxwb3N0LmNvbS9uZXdzL3RoZS10aW1lLXBpZXJyZS1wb2lsaWV2cmUtZ290LWEtZHJlc3NpbmctZG93bi1mcm9tLXN0ZXBoZW4taGFycGVy0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-26T11:01:38+00:00",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "les-echos",
+        "name": "Les Echos"
+      },
+      "author": "Alain Ruello",
+      "title": "Assurance-ch\u00f4mage\u00a0: la der des ders d'Emmanuel Macron",
+      "description": "La r\u00e9forme d\u00e9voil\u00e9e ce dimanche referme le dossier jusqu'\u00e0 la fin du quinquennat. Le chef de l'Etat et ses ministres ne pourront plus se retrancher derri\u00e8re \u00ab\u00a0l'excuse\u00a0\u00bb de r\u00e8gles d'indemnisation trop g\u00e9n\u00e9reuses pour expliquer que tant d'employeurs peinent \u00e0 \u2026",
+      "url": "https://www.lesechos.fr/economie-france/social/assurance-chomage-la-der-des-ders-demmanuel-macron-2097068",
+      "urlToImage": "https://media.lesechos.com/api/v1/images/view/66530124e4a90961ed0768cb/1280x720/01101326344003-web-tete.jpg",
+      "publishedAt": "2024-05-26T09:30:37Z",
+      "content": "Avec la nouvelle r\u00e9forme de l'assurance-ch\u00f4mage d\u00e9voil\u00e9e ce dimanche, on peut parier sans risque qu'Emmanuel Macron est all\u00e9 au bout d'une d\u00e9marche commenc\u00e9e sit\u00f4t \u00e9lu, de fa\u00e7on mod\u00e9r\u00e9e et plut\u00f4t pro\u2026 [+3493 chars]"
+    },
+    {
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "author": null,
+      "title": "Dallas Stars defeat Edmonton Oilers, tie series at 1-1 - ESPN",
+      "description": "Trailing 1-0 in the Western Conference Finals after an overtime loss in Game 1, Dallas goalie Jake Oettinger stopped 28 shots, leading the Stars to a 3-1 victory over the Edmonton Oilers in Game 2 Saturday night at American Airlines Arena.",
+      "url": "https://www.espn.com/nhl/story/_/id/40220388/dallas-stars-defeat-edmonton-oilers-tie-series-1-1",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0526%2Fr1337817_1296x729_16%2D9.jpg",
+      "publishedAt": "2024-05-26T03:29:00Z",
+      "content": "May 25, 2024, 11:29 PM ET\r\nDALLAS -- Mason Marchment scored for the first time since the playoff opener and the Dallas Stars defeated the Edmonton Oilers3-1 on Saturday night to even the Western Conf\u2026 [+3019 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Christopher M. Matthews",
+      "title": "Inside the Rockefeller Clan\u2019s Intensifying Feud With Exxon",
+      "description": "They have suffered reversals in their efforts to hold the energy giant to account for climate change, but the family that owes its fortune to oil isn\u2019t backing down",
+      "url": "https://www.wsj.com/science/environment/rockefeller-exxon-feud-ed816647?mod=hp_lead_pos3",
+      "urlToImage": "https://images.wsj.net/im-960609/social",
+      "publishedAt": "2024-05-25T04:01:00Z",
+      "content": "A fifth-generation heir to the Rockefeller fortune, Miranda Kaiser was busy raising her children in Florence, Italy, when her older brother presented her with his dying wish almost five years ago.\u00a0\r\n\u2026 [+447 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Tim De Chant",
+      "title": "Mycocycle uses mushrooms to upcycle old tires and construction waste | TechCrunch",
+      "description": "The startup's fungi use their mycelium to consume oil-based rubbers and plastics, creating new bio-based materials in the process.",
+      "url": "https://techcrunch.com/2024/05/08/mycocycle-uses-mushrooms-to-upcycle-old-tires-and-construction-waste/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1350655821.jpeg?resize=1200,796",
+      "publishedAt": "2024-05-07T18:07:09Z",
+      "content": "Usually, when something starts to rot, it gets pitched in the trash. But Joanne Rodriguez wants to turn the concept of rot on its head by growing fungus on trash to turn it into something better.\r\nWe\u2026 [+4229 chars]"
+    },
+    {
+      "source": {
+        "id": "medical-news-today",
+        "name": "Medical News Today"
+      },
+      "author": "Eileen Bailey",
+      "title": "Can olive oil help lower the risk of dementia-related death?",
+      "description": "Researchers say people who consume a half tablespoon of olive oil per day have a lower risk of dementia-related death. The study is in line with previous research that has indicated that olive oil can help improve heart health.",
+      "url": "https://www.medicalnewstoday.com/articles/can-olive-oil-help-lower-the-risk-of-dementia-related-death",
+      "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2024/05/olive-oil-1200x628-facebook.jpg",
+      "publishedAt": "2024-05-06T09:45:00Z",
+      "content": "<ul><li>Researchers are reporting that consuming about half a tablespoon per day of olive oil might reduce the risk of dementia-related death.</li><li>They noted that diet quality did not affect the \u2026 [+5588 chars]"
+    },
+    {
+      "source": {
+        "id": "lequipe",
+        "name": "L'equipe"
+      },
+      "author": "L'EQUIPE",
+      "title": "Manchester City au complet pour la finale de la Ligue des champions",
+      "description": "Manchester City a d\u00e9voil\u00e9 un groupe de vingt-trois joueurs pour la finale de Ligue des champions samedi contre l'Inter Milan, \u00e0 Istanbul (21\u00a0heures).",
+      "url": "https://www.lequipe.fr/Football/Actualites/Manchester-city-au-complet-pour-la-finale-de-la-ligue-des-champions/1401522",
+      "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/kyle-walker-est-present-dans-le-groupe-de-manchester-city-presse-sports/1500000001796010/0:0,1995:1330-640-427-75/57f76.jpg",
+      "publishedAt": "2023-06-08T14:46:51+00:00",
+      "content": "L'entra\u00eeneur de Manchester City Pep Guardiola devrait pouvoir compter sur toutes ses forces vives pour la finale de la Ligue des champions samedi \u00e0 Istanbul, contre l'Inter Milan (21\u00a0heures). Le club\u2026 [+235 chars]"
+    },
+    {
+      "source": {
+        "id": "new-scientist",
+        "name": "New Scientist"
+      },
+      "author": null,
+      "title": "Adding wild fungi to soil could make trees store more carbon",
+      "description": "A loblolly pine plantation in the state of Georgia is the test site for a start-up company trying to see if improving the fungi and other microbes in soil can help trees grow bigger and faster",
+      "url": "https://www.newscientist.com/article/2361604-adding-wild-fungi-to-soil-could-make-trees-store-more-carbon/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2023/02/28175105/SEI_146112168.jpg",
+      "publishedAt": "2023-03-01T00:00:00Z",
+      "content": "By James Dinneen\r\nMycorrhizal fungi colonising a host plant\u2019s root tissues\r\nEmmanuel Lattes//Alamy\r\nA start-up has begun planting fungi and other microbes in soil collected from intact forests at a t\u2026 [+417 chars]"
+    }
+  ]
+}
